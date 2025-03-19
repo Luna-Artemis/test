@@ -9,4 +9,5 @@ public class Secondimp1 implements Second {
     private int a3;
     private int a4;
     private int a5;
+    private int a6;
 }
